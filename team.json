@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "kauã henrique de jesus santos nascimento",
+        "role": "Líder de Projeto & Engenheiro de ML",
+        "bio": "Especialista em algoritmos de aprendizado profundo com 5 anos de experiência.",
+        "skills": ["Python", "TensorFlow", "PyTorch", "Visão Computacional"],
+        "photo": "joao.jpg",
+        "social": {
+            "github": "https://github.com/joao",
+            "linkedin": "https://linkedin.com/in/joao"
+        }
+    },
+    {
+        "id": 2,
+        "name": "jose victor soares de lima",
+        "role": "Cientista de Dados",
+        "bio": "Expert em pré-processamento de dados e análise estatística.",
+        "skills": ["Pandas", "SQL", "Estatística", "NLP"],
+        "photo": "jose.jpeg",
+        "social": {
+            "github": "https://github.com/maria",
+            "linkedin": "https://linkedin.com/in/maria"
+        }
+    },
+    {
+        "id": 3,
+        "name": "lucas rivail paulino santos de araujo",
+        "role": "Engenheiro de Software",
+        "bio": "Desenvolvedor full-stack com foco em sistemas escaláveis.",
+        "skills": ["JavaScript", "Flask", "Docker", "APIs"],
+        "photo": "lucas.jpeg",
+        "social": {
+            "github": "https://github.com/carlos",
+            "linkedin": "https://linkedin.com/in/carlos"
+        }
+    },
+    {
+        "id": 4,
+        "name": "jose jackson da silva ",
+        "role": "Designer de UX/UI",
+        "bio": "Especialista em interfaces para sistemas de IA.",
+        "skills": ["Figma", "UI Design", "User Research", "Prototipagem"],
+        "photo": "",
+        "social": {
+            "github": "https://github.com/ana",
+            "linkedin": "https://linkedin.com/in/ana"
+        }
+    },
+    {
+        "id": 5,
+        "name": "joão guilherme cavalcanti neves ",
+        "role": "Engenheiro de DevOps",
+        "bio": "Responsável pela infraestrutura e deploy dos modelos.",
+        "skills": ["AWS", "Kubernetes", "CI/CD", "Monitoramento"],
+        "photo": "neves.jpeg",
+        "social": {
+            "github": "https://github.com/pedro",
+            "linkedin": "https://linkedin.com/in/pedro"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+[
+    
+    {
+        "id": 2,
+        "title": "Chatbot Contextual",
+        "description": "Assistente virtual com NLP avançado capaz de manter conversas complexas.",
+        "link": "https://github.com/equipe-ia/chatbot",
+        "tags": ["NLP", "Transformers", "Dialog Flow"],
+        "image": "chatbot.jpg"
+    }
+]
