@@ -1,0 +1,3 @@
+# Requisitos do projeto
+nltk
+
