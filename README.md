@@ -3,6 +3,7 @@
 
 📌 Funcionalidades
 📋 Modo Terminal (arquivo: diario_habitos.py)
+
 ✅ Adicionar novos hábitos
 
 🗓️ Marcar hábitos como feitos no dia
