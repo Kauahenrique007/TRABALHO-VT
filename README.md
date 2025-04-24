@@ -1,62 +1,74 @@
-# Diário de Hábitos Saudáveis (Python)
+ ## Diário de Hábitos Saudáveis (Python)
+ Este projeto é um sistema simples e eficiente desenvolvido em Python que permite registrar e acompanhar hábitos saudáveis do dia a dia — como beber água, fazer exercícios, dormir cedo, entre outros. Inclui tanto uma interface de linha de comando quanto uma interface gráfica com Tkinter para facilitar a interação do usuário.
 
-## Descrição:
-Este projeto é um sistema simples em Python para registrar hábitos saudáveis do dia a dia, como "beber água", "fazer exercícios", "dormir cedo", entre outros.
+📌 Funcionalidades
+📋 Modo Terminal (arquivo: diario_habitos.py)
+✅ Adicionar novos hábitos
 
-O usuário pode adicionar hábitos, marcar quando os realizou, visualizar o progresso e salvar os dados. O programa utiliza apenas comandos e estruturas básicas da linguagem Python.
+🗓️ Marcar hábitos como feitos no dia
 
----
+📊 Visualizar progresso (número de vezes que um hábito foi realizado)
 
-## Funcionalidades:
-1. Adicionar um novo hábito
-2. Marcar um hábito como feito no dia
-3. Listar todos os hábitos e o número de vezes realizados
-4. Salvar e carregar os dados automaticamente no arquivo "habitos.txt"
+💾 Salvar e carregar dados automaticamente no arquivo habitos.txt
 
----
+🖥️ Interface Gráfica (arquivo: interface.py)
+🧑 Entrada de nome do usuário
 
-## Como usar:
-1. Execute o arquivo diario_habitos.py
-2. Escolha uma opção no menu:
-   - [1] Adicionar hábito
-   - [2] Marcar hábito como feito
-   - [3] Ver progresso
-   - [4] Sair e salvar
-3. O progresso será salvo automaticamente ao sair.
+👋 Exibição de mensagem de boas-vindas personalizada
 
----
+🪟 Interface intuitiva com Tkinter
 
-## Tecnologias Utilizadas:
-- Linguagem: Python 3
-- Recursos usados: funções, listas, dicionários, laços de repetição, condicionais, manipulação de arquivos (.txt)
+## ⚙️ Como Usar
+▶️ Executar o Modo Terminal
+bash
+Copiar
+Editar
+python diario_habitos.py
+Escolha uma das opções do menu:
 
----
+[1] Adicionar hábito
 
-## Interface Gráfica
+[2] Marcar hábito como feito
 
-📋 Funcionalidades
-Interface gráfica amigável com Tkinter
+[3] Ver progresso
 
-Campo de entrada para nome do usuário
+[4] Sair e salvar
 
-Exibição de mensagem personalizada com messagebox
+## ▶️ Executar a Interface Gráfica
+bash
+Copiar
+Editar
+python interface.py
+Digite seu nome
 
-Pré-requisitos
-Certifique-se de ter o Python instalado na sua máquina. Este projeto é compatível com o Python 3.6 ou superior.
+Clique em "Enviar"
 
-Para verificar a versão do seu python
-python --version
+Veja a mensagem personalizada
 
-## Estrutura do Projeto
-nome-do-repositorio/
+ ## 🧱 Estrutura do Projeto
+graphql
+Copiar
+Editar
+diario-habitos/
 │
-├── interface.py           # Arquivo principal com a lógica da interface
-├── README.md        # Este arquivo
+├── diario_habitos.py     # Versão com menu interativo no terminal
+├── interface.py          # Interface gráfica com Tkinter
+├── habitos.txt           # Arquivo de armazenamento dos dados
+└── README.md             # Documentação do projeto
+🧠 Tecnologias Utilizadas
+Python 3
 
-## Tecnologias Utilizadas
+Tkinter (para GUI)
 
-- Python
-- Tkinter
+Manipulação de arquivos .txt
 
+Estruturas básicas: listas, dicionários, condicionais, loops, funções
 
+ ## ✅ Pré-requisitos
+Certifique-se de ter o Python 3.6 ou superior instalado em sua máquina.
 
+Verifique sua versão:
+bash
+Copiar
+Editar
+python --version
