@@ -52,10 +52,10 @@ Copiar
 Editar
 diario-habitos/
 │
-├── diario_habitos.py     # Versão com menu interativo no terminal
-├── interface.py          # Interface gráfica com Tkinter
-├── habitos.txt           # Arquivo de armazenamento dos dados
-└── README.md             # Documentação do projeto
+─ diario_habitos.py     # Versão com menu interativo no terminal
+─ interface.py          # Interface gráfica com Tkinter
+─ habitos.txt           # Arquivo de armazenamento dos dados
+─ README.md             # Documentação do projeto
 🧠 Tecnologias Utilizadas
 Python 3
 
