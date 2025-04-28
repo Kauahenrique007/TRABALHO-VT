@@ -58,5 +58,18 @@
             "github": "https://github.com/pedro",
             "linkedin": "https://linkedin.com/in/pedro"
         }
+    },
+    
+       {
+        "id": 6,
+        "name": "Brener Santana Magalhães",
+        "role": "Desenvolvedor Python",
+        "bio": "Responsável pela criação da extensão 'Hábitos Saudáveis' em Python, focando no desenvolvimento de soluções práticas e aplicando conceitos de programação básica.",
+        "skills": ["Python", "Git", "Desenvolvimento de Extensões", "Lógica de Programação"],
+        "photo": "brener.jpg",
+        "social": {
+        "github": "https://github.com/bre-exe",
+        "linkedin": "https://www.linkedin.com/in/brener-santana-a3528b307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     }
-]
+}
+
